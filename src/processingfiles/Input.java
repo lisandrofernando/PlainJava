@@ -11,6 +11,7 @@ public class Input {
 		/*
 		 * The scanner class we will read data or files from the input.
 		 * System.in stands for the input stream
+		 * Comment the below method to be able to run the fileInputStream Method
 		 */
 		for(int i=0; i<=3; i++) {
 	    Scanner input = new Scanner(System.in);
