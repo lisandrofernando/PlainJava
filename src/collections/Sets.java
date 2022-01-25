@@ -16,7 +16,7 @@ public class Sets {
 		 * The two string method to have a readable friendly representation
 		 * The HashCode method helps instances of HashSet collections to check for the same data
 		 * And prevent duplicates.
-		 * On the line 42 we are converting the HashSet into an ArrayList
+		 * On the line 46 we are converting the HashSet into an ArrayList
 		 * The sort method only works for Lists, not Set. The sort method will sort a list alphabetically
 		 * Or from small to the biggest value basically comparing the values.
 		 */
